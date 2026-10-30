@@ -4,10 +4,7 @@
  */
 package ec.edu.espoch.testteam.objects;
 
-/**
- *
- * @author usuario
- */
+
 public class Cyclist {
     
 }
